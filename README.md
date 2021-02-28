@@ -4,7 +4,7 @@ This is an example of how one might implement a serverless web scrapper.
 
 High-level architectural overview
 
-![Architecture](./docs/overview.png)
+![Architecture](./docs/overview_arch.png)
 
 And the _Step Function_ that orchestrates the scrapping
 
